@@ -17,3 +17,11 @@ $ git pull
 ### Checkout main repository
 $ git checkout main
 
+### Add some file into the folder eg 
+$ git status
+
+## Add to staging
+$ git add <files or folders name>
+
+### Check staged files and folders
+$ git status
