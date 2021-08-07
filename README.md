@@ -31,3 +31,17 @@ $ git commit -m <"Your message related to commit">
 
 ### Push commit to the repository
 $ git push
+
+
+
+
+### Add new barnch from existing branch but no checkout 
+$ git branch <branch name>
+
+### Add new Branch from existing branch and checkout 
+$ git checkout -b <branch name>
+
+### push new branch to remote repository  
+$ git push --set-upstream origin <branch nane>
+
+
